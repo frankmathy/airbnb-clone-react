@@ -1,6 +1,7 @@
 import React from 'react';
 import './SearchPage.css';
 import { Button } from '@material-ui/core';
+import SearchResult from './SearchResult';
 
 function SearchPage() {
   return (
@@ -14,6 +15,46 @@ function SearchPage() {
         <Button variant="outlined">Rooms and beds</Button>
         <Button variant="outlined">More filters</Button>
       </div>
+      <SearchResult
+        img="https://cf.bstatic.com/images/hotel/max1024x768/141/141265984.jpg"
+        location="Private room in the center of London"
+        title="Stay in this spacious Edwardian House"
+        description="1 guest • 1 bedroom • 1 bed • 1.5 shared bathrooms •
+            Wifi • Kitchen • Free parking • Washing machine"
+        star={4.73}
+        price="€30 / night"
+        total="€117 total"
+      />
+      <SearchResult
+        img="https://cf.bstatic.com/images/hotel/max1024x768/141/141265984.jpg"
+        location="Private room in the center of London"
+        title="Stay in this spacious Edwardian House"
+        description="1 guest • 1 bedroom • 1 bed • 1.5 shared bathrooms •
+            Wifi • Kitchen • Free parking • Washing machine"
+        star={4.73}
+        price="€30 / night"
+        total="€117 total"
+      />
+      <SearchResult
+        img="https://cf.bstatic.com/images/hotel/max1024x768/141/141265984.jpg"
+        location="Private room in the center of London"
+        title="Stay in this spacious Edwardian House"
+        description="1 guest • 1 bedroom • 1 bed • 1.5 shared bathrooms •
+            Wifi • Kitchen • Free parking • Washing machine"
+        star={4.73}
+        price="€30 / night"
+        total="€117 total"
+      />
+      <SearchResult
+        img="https://cf.bstatic.com/images/hotel/max1024x768/141/141265984.jpg"
+        location="Private room in the center of London"
+        title="Stay in this spacious Edwardian House"
+        description="1 guest • 1 bedroom • 1 bed • 1.5 shared bathrooms •
+            Wifi • Kitchen • Free parking • Washing machine"
+        star={4.73}
+        price="€30 / night"
+        total="€117 total"
+      />
     </div>
   );
 }
