@@ -13,19 +13,16 @@ function Home() {
           src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
           title="Entire homes"
           description="Comforable private places, with room for friends or family"
-          price="99.98"
         />
         <Card
           src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
           title="Entire homes"
           description="Comforable private places, with room for friends or family"
-          price="99.98"
         />
         <Card
           src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
           title="Entire homes"
           description="Comforable private places, with room for friends or family"
-          price="99.98"
         />
       </div>
 
@@ -34,19 +31,19 @@ function Home() {
           src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
           title="Entire homes"
           description="Comforable private places, with room for friends or family"
-          price="99.98"
+          price="€99.98 / Night"
         />
         <Card
           src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
           title="Entire homes"
           description="Comforable private places, with room for friends or family"
-          price="99.98"
+          price="€99.98 / Night"
         />
         <Card
           src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
           title="Entire homes"
           description="Comforable private places, with room for friends or family"
-          price="99.98"
+          price="€99.98 / Night"
         />
       </div>
     </div>
